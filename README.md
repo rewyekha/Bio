@@ -1,18 +1,28 @@
 # Reyas Khan M
-
-**Location:** Chennai, Tamil Nadu, India – 600100   
+- **Location:** Chennai, Tamil Nadu, India – 600100  
 **Email:** [reyaskhan001@gmail.com](mailto:reyaskhan001@gmail.com)  
 **Portfolio:** [Portfolio](https://rewyekha.github.io/#/contact)  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/reyas-khan-16640825b/)  
-**Linktree:** [Hackrank, Leetcode - Profiles](#)  
-**GitHub:** [github.com/rewyekha](https://github.com/rewyekha)
+
+## About Me
+
+I am a dedicated software engineer with a focus on DevOps, Cloud and Database. I enjoy tackling complex problems and continuously improving my skills. With experience in both research and DevOps, I am keen to contribute to innovative projects and further enhance my professional journey.
+
+## Skills
+
+- **Programming Languages/Databases:** C, C++, Python, Java, HTML, CSS, JavaScript, SQL
+- **Libraries and Frameworks:** Flask, ReactJS, Node.js
+- **Operating Systems:** Windows, Linux (UNIX, RHEL, Ubuntu, Debian)
+- **Cloud:** AWS, Microsoft Azure
+- **Technologies & Methodologies:** Networking, DevOps, ITIL, Git, GitHub, CI/CD, ServiceNow, Docker, Kubernetes, Apache Kafka, Jenkins, IaaS, SaaS, IaC
+- **Soft Skills:** Communication, Team Player, Time Management, Coding, Team Management, Attention to Detail
 
 ## Experience
 
 ### Associate Research | Sutherland Global Services, Chennai, India  
 *March 2022 – Present*
 - Developed intricate Hubble Sagan (SQL Server) queries for extracting product and customer engagement data.
-- Created and deployed technical content pages for clients in the US, Canada, and European countries.
+- Created and deployed technical content pages using XML for clients in the US, Canada, and European countries.
+- Worked with the LLM tool to support the publishing of technical support pages.
 - Wrote test cases, tracked bugs, and tested various backend tools of an e-commerce application.
 - Utilized client tools such as AWS, S3 buckets, SQL Server, SS portal, Oxygen XML Developer, Quip Tool, Claude 3, LLM server, and Amazon Docs.
 - Investigated and recommended automation solutions, reducing order full end time by 20%.
@@ -28,28 +38,52 @@
 - Proposed CloudFormation-based infrastructure, improving system reliability by 33%.
 - Monitored the health of EC2 instances and other AWS services, ensuring system standards compliance.
 
-## Technical Skills
-
-- **Programming Languages/Databases:** C, C++, Python, Java, HTML, CSS, JavaScript, SQL
-- **Libraries and Frameworks:** Flask, ReactJS, Node.js
-- **Operating Systems:** Windows, Linux (UNIX, RHEL, Ubuntu, Debian)
-- **Cloud:** AWS, Microsoft Azure
-- **Technologies & Methodologies:** Networking, DevOps, ITIL, Git, GitHub, CI/CD, ServiceNow, Docker, Kubernetes, Apache Kafka, Jenkins, IaaS, SaaS, IaC
-- **Soft Skills:** Communication, Team Player, Time Management, Coding, Team Management, Attention to Detail
-
 ## Education
 
 - **MCA, Master of Computer Applications**  
   University of Madras – Chennai, TN, India  
   *Expected: January 2024 – December 2025*
 
-- **CS50x - Computer Science**
-  Harvard University - Cambridge, MA
-  *June, 2024 - Sep, 2024*
+- **CS50x Computer Science**  
+  Harvard University – Cambridge, MA  
+  *June 2024 – Sep 2024*
 
 - **Bachelor of Commerce**  
   Mohamed Sathak College of Arts and Science – Chennai, TN, India  
   *June 2017 – May 2020 | CGPA: 7*
+
+## Awards
+
+- **Top Performer of the Week** x6 at Sutherland
+- **Top Performer of the Month** at Sutherland
+- **Successful Factor Authentication Testing** at Sutherland
+
+## Events
+
+- **AWS AI Conclave** – Amazon AWS, January 2024
+- **World’s Biggest Virtual Software Testing Conference** – Testflix, September 2023
+- **AWS Innovate Modern Applications Edition** – Amazon, October 2023
+- **GitHub CI/CD** – GitHub, 2022
+
+## Projects / Open Source
+
+- **[Master Portfolio Website](#)** – [Live](#) | [Source Code](#)  
+  Tools: HTML, CSS, ReactJS, Node.js
+
+- **[DevOps Mastery on AWS](#)** – [Documentation](#) | [Gitbook](#) | [Blog](#)  
+  Tools: AWS, Jenkins, Maven, Docker, Ansible, Git
+
+- **[Cloud-Native Monitoring Application](#)** – [Public](#) | [Source Code](#)  
+  Tools: Python, Dockerfile, AWS, kubectl
+
+- **[Full Stack - CI/CD DevOps](#)** – [Virtual Browser](#) | [Source Code](#)  
+  Tools: Go, TypeScript, Vue, JavaScript, C, Dockerfile
+
+- **[Java Application with Docker & Kubernetes](#)** – [Source Code](#)  
+  Tools: Java, HTML, Scala, Shell, Dockerfile
+
+- **[OTP Authentication](#)** – [Source Code](#)  
+  Tools: Python, SMTP Protocol
 
 ## Certifications
 
@@ -89,38 +123,14 @@
 - **Microsoft Badges** – [Profile](#)  
   [Profile Link](#)
 
-## Events
+## Contact
 
-- **AWS AI Conclave** – Amazon AWS, January 2024
-- **World’s Biggest Virtual Software Testing Conference** – Testflix, September 2023
-- **AWS Innovate Modern Applications Edition** – Amazon, October 2023
-- **GitHub CI/CD** – GitHub, 2022
+Feel free to connect with me through the following channels:
 
-## Awards
-
-- **Top Performer of the Week** x6 at Sutherland
-- **Top Performer of the Month** at Sutherland
-- **Successful Factor Authentication Testing** at Sutherland
-
-## Projects / Open Source
-
-- **[Master Portfolio Website](#)** – [Live](#) | [Source Code](#)  
-  Tools: HTML, CSS, ReactJS, Node.js
-
-- **[DevOps Mastery on AWS](#)** – [Documentation](#) | [Gitbook](#) | [Blog](#)  
-  Tools: AWS, Jenkins, Maven, Docker, Ansible, Git
-
-- **[Cloud-Native Monitoring Application](#)** – [Public](#) | [Source Code](#)  
-  Tools: Python, Dockerfile, AWS, kubectl
-
-- **[Full Stack - CI/CD DevOps](#)** – [Virtual Browser](#) | [Source Code](#)  
-  Tools: Go, TypeScript, Vue, JavaScript, C, Dockerfile
-
-- **[Java Application with Docker & Kubernetes](#)** – [Source Code](#)  
-  Tools: Java, HTML, Scala, Shell, Dockerfile
-
-- **[OTP Authentication](#)** – [Source Code](#)  
-  Tools: Python, SMTP Protocol
+- **Email:** [reyaskhan001@gmail.com](mailto:reyaskhan001@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/reyas-khan-16640825b/)
+- **GitHub:** [github.com/rewyekha](https://github.com/rewyekha)
+- **Portfolio:** [Portfolio](https://rewyekha.github.io/#/contact)
 
 ## Declaration
 
