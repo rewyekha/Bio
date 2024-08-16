@@ -52,12 +52,6 @@ I am a dedicated software engineer with a focus on DevOps, Cloud and Database. I
   Mohamed Sathak College of Arts and Science – Chennai, TN, India  
   *June 2017 – May 2020 | CGPA: 7*
 
-## Awards
-
-- **Top Performer of the Week** x6 at Sutherland
-- **Top Performer of the Month** at Sutherland
-- **Successful Factor Authentication Testing** at Sutherland
-
 ## Events
 
 - **AWS AI Conclave** – Amazon AWS, January 2024
@@ -67,61 +61,53 @@ I am a dedicated software engineer with a focus on DevOps, Cloud and Database. I
 
 ## Projects / Open Source
 
-- **[Master Portfolio Website](#)** – [Live](#) | [Source Code](#)  
+- **[Master Portfolio Website]** – [Live](https://rewyekha.github.io/#/) | [Source Code](https://github.com/rewyekha/Masterfolio.git)  
   Tools: HTML, CSS, ReactJS, Node.js
 
-- **[DevOps Mastery on AWS](#)** – [Documentation](#) | [Gitbook](#) | [Blog](#)  
+- **[DevOps Mastery on AWS]** – [Documentation] | [Gitbook] | [Blog]  
   Tools: AWS, Jenkins, Maven, Docker, Ansible, Git
 
-- **[Cloud-Native Monitoring Application](#)** – [Public](#) | [Source Code](#)  
+- **[Cloud-Native Monitoring Application]** – [Public] | [Source Code]  
   Tools: Python, Dockerfile, AWS, kubectl
 
-- **[Full Stack - CI/CD DevOps](#)** – [Virtual Browser](#) | [Source Code](#)  
+- **[Full Stack - CI/CD DevOps]** – [Virtual Browser] | [Source Code]  
   Tools: Go, TypeScript, Vue, JavaScript, C, Dockerfile
 
-- **[Java Application with Docker & Kubernetes](#)** – [Source Code](#)  
+- **[Java Application with Docker & Kubernetes]** – [Source Code]  
   Tools: Java, HTML, Scala, Shell, Dockerfile
 
-- **[OTP Authentication](#)** – [Source Code](#)  
+- **[OTP Authentication]** – [Source Code]  
   Tools: Python, SMTP Protocol
 
 ## Certifications
 
-- **Microsoft Certified Azure Administrator Associate (AZ-104)** – [Certificate](#)  
+- **Microsoft Certified Azure Administrator Associate (AZ-104)** – [Certificate]  
   December 2022 - December 2024
 
-- **AWS Certified - Well-Architected Proficient** – [Certificate](#)  
-  [Certificate Link](#)
+- **AWS Certified - Well-Architected Proficient** – [Certificate]  
+  
+- **GitHub Fundamentals - Administration** – [Certificate]  
+  
+- **Continuous Integration with GitHub Actions** – [Certificate]  
+  
+- **Web Development with HTML and CSS** – Microsoft – [Certificate]  
+  
+- **HackerRank Certified SQL (Advanced)** – [Certificate]  
+  
+- **Networking** – Cisco Networking Academy – [Certificate]  
+  
+- **Python Essentials** – Cisco Networking Academy – [Certificate]  
+  
+- **GitHub Actions CI/CD** – LinkedIn Learning – [Certificate]  
+  
+- **Oracle - Databases for Developers: Foundations** – [Profile]  
+  [Profile Link]
 
-- **GitHub Fundamentals - Administration** – [Certificate](#)  
-  [Certificate Link](#)
+- **HackerRank Certifications & Badges** – [Profile]  
+  [Profile Link]
 
-- **Continuous Integration with GitHub Actions** – [Certificate](#)  
-  [Certificate Link](#)
-
-- **Web Development with HTML and CSS** – Microsoft – [Certificate](#)  
-  [Certificate Link](#)
-
-- **HackerRank Certified SQL (Advanced)** – [Certificate](#)  
-  [Certificate Link](#)
-
-- **Networking** – Cisco Networking Academy – [Certificate](#)  
-  [Certificate Link](#)
-
-- **Python Essentials** – Cisco Networking Academy – [Certificate](#)  
-  [Certificate Link](#)
-
-- **GitHub Actions CI/CD** – LinkedIn Learning – [Certificate](#)  
-  [Certificate Link](#)
-
-- **Oracle - Databases for Developers: Foundations** – [Profile](#)  
-  [Profile Link](#)
-
-- **HackerRank Certifications & Badges** – [Profile](#)  
-  [Profile Link](#)
-
-- **Microsoft Badges** – [Profile](#)  
-  [Profile Link](#)
+- **Microsoft Badges** – [Profile]  
+  [Profile Link]
 
 ## Contact
 
