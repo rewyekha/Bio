@@ -21,8 +21,8 @@ I am a dedicated software engineer with a focus on DevOps, Cloud and Database. I
 ### Associate Research | Sutherland Global Services, Chennai, India  
 *March 2022 – Present*
 - Developed intricate Hubble Sagan (SQL Server) queries for extracting product and customer engagement data.
-- Created and deployed technical content pages using XML for clients in the US, Canada, and European countries.
-- Worked with the LLM tool to support the publishing of technical support pages.
+- Created and deployed technical content pages using XML for clients in the Multiple region.
+- Worked with the AI tool to support the publishing of technical support pages.
 - Wrote test cases, tracked bugs, and tested various backend tools of an e-commerce application.
 - Utilized client tools such as AWS, S3 buckets, SQL Server, SS portal, Oxygen XML Developer, Quip Tool, Claude 3, LLM server, and Amazon Docs.
 - Investigated and recommended automation solutions, reducing order full end time by 20%.
